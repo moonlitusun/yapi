@@ -5,9 +5,9 @@
    "timeout": 120000,
    "closeRegister":true,
    "db": {
-      "servername": "127.0.0.1",
+      "servername": "10.10.11.236",
       "DATABASE": "yapi",
-      "port": 27017
+      "port": 27018
    },
    "mail": {
       "enable": false,
